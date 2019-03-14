@@ -18,3 +18,8 @@ print ("The non decimal division of those two numbers is ", (numThree // numFour
 
 print ("The remainder of the division product is ", ((numThree / numFour) - (numThree // numFour)))
 
+print ("The total of all the numbers is :", (numOne + numTwo + numThree + numFour))
+
+print ("The product of the first set of numbers is :", (numOne * numTwo))
+
+print ("The product of the second set of numbers is :", (numThree * numFour))
