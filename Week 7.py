@@ -20,4 +20,7 @@ print ("The remainder of the division product is ", ((numThree / numFour) - (num
 
 print ("The total of all the numbers is :", (numOne + numTwo + numThree + numFour))
 
+print ("The product of the first set of numbers is :", (numOne * numTwo))
+
+print ("The product of the second set of numbers is :", (numThree * numFour))
 
